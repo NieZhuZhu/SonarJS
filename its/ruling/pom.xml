@@ -34,7 +34,7 @@
     <dependency>
       <groupId>org.sonarsource.sonarqube</groupId>
       <artifactId>sonar-ws</artifactId>
-      <version>7.9.1</version>
+      <version>9.9.4.87374</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.gson</groupId>
